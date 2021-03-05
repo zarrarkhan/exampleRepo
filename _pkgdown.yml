@@ -5,9 +5,16 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - text: "How-to"
+    - text: "Tab1"
       icon: fas fa-book
-      href: articles/vignette_map.html
+      menu:
+      -  text: text for newVignetteName1
+         href: articles/newVignetteName1.html
+      -  text: text for newVignetteName2
+         href: articles/newVignetteName2.html
+    - icon: fas fa-anchor
+      text: "Tab2"
+      href: articles/newVignetteName3.html
     - icon: fa-file-code-o
       text: "Reference"
       href: reference/index.html

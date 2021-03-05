@@ -13,7 +13,7 @@
 #'     }
 
 exampleFunction <-function(param1=1,
-                             param2=2) {
+                           param2=2) {
 
   return(param1+param2)
 
