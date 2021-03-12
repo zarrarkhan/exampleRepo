@@ -15,7 +15,8 @@ Imports:
     knitr,
     dplyr
 Suggests: 
-    rmarkdown
+    rmarkdown,
+    testthat
 Remotes: github::JGCRI/rgcam
 VignetteBuilder: 
     knitr
