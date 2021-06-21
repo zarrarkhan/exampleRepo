@@ -21,8 +21,6 @@ navbar:
     - icon: fa-newspaper-o
       text: "News"
       href: news/index.html
-    - text: cheatsheet
-      href: https://github.com/JGCRI/exampleRepo/blob/main/exampleRepoCheatsheet.pdf
       
 toc:
   depth: 2
